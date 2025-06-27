@@ -1,0 +1,20 @@
+# Ignore Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+.env
+
+# Ignore Node.js
+node_modules/
+dist/
+build/
+.env.local
+
+# VS Code
+.vscode/
+
+# Others
+.DS_Store
+*.log
